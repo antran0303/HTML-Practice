@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+#div{
+	font-weight:bold;
+	font-size:20px;
+	color:#F51B1E;
+}
+
+#div1{
+	width: 100px;
+	height: 100px;
+	
+	background-color:brown;
+	border: 5px solid blue;
+	border-right-color: #E81418;
+	border-radius: 100px;
+}
+
+#div2{
+	background-color:#F00F13;
+	width:200px;
+	height: 200px;
+}
+body{
+	margin: 0;
+}
